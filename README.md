@@ -82,6 +82,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Haikei](https://haikei.app/) - Generate SVG backgrounds, blobs, waves, and other visual assets.
 - [Iconify](https://icon-sets.iconify.design/) - Search thousands of icon sets from one browser interface. `open-source`
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the Tailwind CSS team. `open-source`
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Suite of 9 free single-purpose browser utilities: domain name generator, OG image generator, AI background remover (runs locally via WebAssembly, zero upload), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator. No signup required. `local-first` `open-source`
 
 ## Writing and Documentation
 
