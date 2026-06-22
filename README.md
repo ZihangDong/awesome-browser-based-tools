@@ -52,6 +52,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 - [24Picture](https://24picture.com) - Browser-local image toolkit with converters, compressors, editors, GIF tools, batch conversion, and PWA support. `local-first` `privacy-first` `pwa`
 - [Squoosh](https://squoosh.app/) - Image compression and format conversion from the browser, originally by GoogleChromeLabs. `local-first` `open-source`
+- [FreePNGConvert](https://freepngconvert.com) - Free WebP to PNG converter with batch support. 100% client-side, no upload. `local-first` `privacy-first`
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web UI for SVGO, useful for optimizing SVG files before shipping them. `local-first` `open-source`
 - [Photopea](https://www.photopea.com/) - Advanced browser-based image editor with PSD, vector, and raster workflows.
 - [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketch-style diagrams and collaboration. `open-source`
