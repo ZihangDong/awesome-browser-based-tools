@@ -158,3 +158,5 @@ This curated list and documentation are licensed under [Creative Commons Attribu
 If this list helped you discover a useful browser-based tool, consider starring the repository.
 
 </div>
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload required — all image processing happens client-side for privacy and speed.
+
