@@ -90,6 +90,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [StackEdit](https://stackedit.io/) - Browser-based Markdown editor with sync options. `open-source`
 - [Carbon](https://carbon.now.sh/) - Create and export beautiful code screenshots.
 - [Shields.io](https://shields.io/) - Generate badges for GitHub READMEs, docs, and project pages. `open-source`
+- [WeaveStudio](https://weavestudio-nine.vercel.app/) - Local-first visual workflow canvas for turning fragmented notes, research, and client inputs into structured, reviewable deliverables with portable exports. `local-first` `privacy-first`
 
 ## Data, Security, and Diagnostics
 
