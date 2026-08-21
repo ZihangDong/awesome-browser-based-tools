@@ -71,6 +71,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Mermaid Live Editor](https://mermaid.live/) - Create and preview Mermaid diagrams directly in the browser. `open-source`
 - [Crontab Guru](https://crontab.guru/) - Human-readable editor and explainer for cron schedules.
 - [JSON Editor Online](https://jsoneditoronline.org/) - View, format, compare, and edit JSON documents in the browser.
+- [User Agent Parser](https://superhubutils.netlify.app/dev/user-agent-parser) - Decode any user agent string into readable browser, OS, and device details. `local-first` `privacy-first`
 
 ## Design and Creative Tools
 
@@ -90,6 +91,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [StackEdit](https://stackedit.io/) - Browser-based Markdown editor with sync options. `open-source`
 - [Carbon](https://carbon.now.sh/) - Create and export beautiful code screenshots.
 - [Shields.io](https://shields.io/) - Generate badges for GitHub READMEs, docs, and project pages. `open-source`
+- [Word Counter](https://superhubutils.netlify.app/text/word-counter) - Live word, character, sentence, and reading-time counts for essays and articles. `local-first` `privacy-first`
 
 ## Data, Security, and Diagnostics
 
@@ -99,6 +101,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Security Headers](https://securityheaders.com/) - Check HTTP security headers for a website.
 - [DNS Checker](https://dnschecker.org/) - Global DNS propagation and lookup utility.
 - [Webhook.site](https://webhook.site/) - Inspect incoming webhooks, HTTP requests, and callbacks.
+- [Password Generator](https://superhubutils.netlify.app/dev/password-generator) - Generate strong random passwords locally with a live strength meter. `local-first` `privacy-first`
 
 ## Tool Directories and Discovery
 
