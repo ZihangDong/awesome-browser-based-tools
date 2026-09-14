@@ -99,6 +99,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Security Headers](https://securityheaders.com/) - Check HTTP security headers for a website.
 - [DNS Checker](https://dnschecker.org/) - Global DNS propagation and lookup utility.
 - [Webhook.site](https://webhook.site/) - Inspect incoming webhooks, HTTP requests, and callbacks.
+- [Hardware Test Tools](https://hardware-test.uwarp.design/) - Free browser-based hardware diagnostics for webcam, mic, keyboard, mouse, and display; no signup, nothing uploaded. `local-first` `privacy-first`
 
 ## Tool Directories and Discovery
 
