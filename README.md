@@ -93,6 +93,8 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Data, Security, and Diagnostics
 
+- [NextReset](https://nextreset.ai/) - Tracks Codex reset-history observations and official AI-service incidents, with a personal countdown stored locally in the browser. `privacy-first`
+
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze web performance and Core Web Vitals.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - Web quality audits for performance, accessibility, SEO, and best practices. `open-source`
 - [SSL Labs SSL Test](https://www.ssllabs.com/ssltest/) - Deep TLS/SSL configuration analysis for public websites.
