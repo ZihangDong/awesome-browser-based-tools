@@ -86,6 +86,7 @@ This repository is maintained as a practical discovery list, not a paid director
 ## Writing and Documentation
 
 - [Hemingway Editor](https://hemingwayapp.com/) - Browser-based writing clarity checker.
+- [FirstClick Homepage Headline Generator](https://elyasibkr.github.io/firstclick-headline-generator/) - Draft three homepage headlines, a supporting line, and a CTA in the browser without uploading inputs. `local-first` `open-source`
 - [Dillinger](https://dillinger.io/) - Online Markdown editor with preview and export options. `open-source`
 - [StackEdit](https://stackedit.io/) - Browser-based Markdown editor with sync options. `open-source`
 - [Carbon](https://carbon.now.sh/) - Create and export beautiful code screenshots.
