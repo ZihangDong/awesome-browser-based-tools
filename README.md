@@ -65,6 +65,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [StackBlitz](https://stackblitz.com/) - Browser-based development environment for web apps.
 - [CodePen](https://codepen.io/) - Frontend playground for HTML, CSS, and JavaScript experiments.
 - [JSFiddle](https://jsfiddle.net/) - Lightweight online editor for testing JavaScript, CSS, and HTML snippets.
+- [ipynbtopdf](https://ipynbtopdf.xyz/) - Render Jupyter notebooks in the browser and save them as PDF through browser print, without uploading the notebook. `local-first` `open-source`
 - [Regex101](https://regex101.com/) - Regular expression tester with explanations, examples, and flavor support.
 - [Bundlephobia](https://bundlephobia.com/) - Analyze npm package size impact before installing a dependency.
 - [Can I use](https://caniuse.com/) - Browser support tables for modern web platform features.
