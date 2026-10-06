@@ -91,6 +91,8 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Carbon](https://carbon.now.sh/) - Create and export beautiful code screenshots.
 - [Shields.io](https://shields.io/) - Generate badges for GitHub READMEs, docs, and project pages. `open-source`
 
+- [BordaCusto](https://bordacusto.com/) - Calculate machine-embroidery quotes and generate client PDF proposals, with local history and JSON backup. Free online tool in Portuguese.
+
 ## Data, Security, and Diagnostics
 
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Analyze web performance and Core Web Vitals.
