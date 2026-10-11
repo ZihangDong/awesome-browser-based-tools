@@ -42,6 +42,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Design and Creative Tools](#design-and-creative-tools)
 - [Writing and Documentation](#writing-and-documentation)
 - [Data, Security, and Diagnostics](#data-security-and-diagnostics)
+- [Productivity and Time](#productivity-and-time)
 - [Tool Directories and Discovery](#tool-directories-and-discovery)
 - [Selection Criteria](#selection-criteria)
 - [Contributing](#contributing)
@@ -99,6 +100,10 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Security Headers](https://securityheaders.com/) - Check HTTP security headers for a website.
 - [DNS Checker](https://dnschecker.org/) - Global DNS propagation and lookup utility.
 - [Webhook.site](https://webhook.site/) - Inspect incoming webhooks, HTTP requests, and callbacks.
+
+## Productivity and Time
+
+- [HoursCounter](https://hourscounter.com/) - Calculate weekly or biweekly work hours with unpaid breaks, overtime, and estimated gross pay; export CSV or print a report without signing up.
 
 ## Tool Directories and Discovery
 
