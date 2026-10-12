@@ -58,6 +58,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
+- [QuietTake Noise Remover](https://noiseremover.site/) - Reduce background noise in short speech recordings locally in the browser and export WAV; files must be 50 MB or smaller and five minutes or shorter. `local-first` `privacy-first`
 
 ## Developer Utilities
 
