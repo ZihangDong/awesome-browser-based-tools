@@ -50,6 +50,8 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Image and Media Tools
 
+- [FotoApta](https://fotoapta.com/foto-3x4-pdf/) - Crop document photos and export printable 3x4 photo sheets in the browser; AI portrait generation is a separate cloud feature. `local-first`
+- [RasterGo](https://rastergo.com/) - Prepare photo PNGs for laser engraving with a chosen physical size, DPI, cropping, tonal adjustments, and dithering in the browser. `local-first`
 - [24Picture](https://24picture.com) - Browser-local image toolkit with converters, compressors, editors, GIF tools, batch conversion, and PWA support. `local-first` `privacy-first` `pwa`
 - [Squoosh](https://squoosh.app/) - Image compression and format conversion from the browser, originally by GoogleChromeLabs. `local-first` `open-source`
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web UI for SVGO, useful for optimizing SVG files before shipping them. `local-first` `open-source`
