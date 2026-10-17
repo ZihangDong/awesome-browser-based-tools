@@ -100,6 +100,8 @@ This repository is maintained as a practical discovery list, not a paid director
 - [DNS Checker](https://dnschecker.org/) - Global DNS propagation and lookup utility.
 - [Webhook.site](https://webhook.site/) - Inspect incoming webhooks, HTTP requests, and callbacks.
 
+- [WhatsMyName Apps](https://whatsmynameapps.us/) - Search for public profiles by username across websites, with public profile details and CSV/JSON export; free with no signup.
+
 ## Tool Directories and Discovery
 
 - [ToolKnit](https://toolknit.com) - Curated directory for practical online tools across categories. `directory`
