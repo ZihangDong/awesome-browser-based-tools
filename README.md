@@ -58,6 +58,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
+- [The Audio Stuff Tools](https://theaudiostuff.com/tools/) - Browser-local audio tools: tone generator, speaker and headphone test, ABX blind test, FFT spectrum checker for audio files, EQ ear training, and audio calculators. `local-first` `privacy-first` `pwa`
 
 ## Developer Utilities
 
