@@ -51,6 +51,7 @@ This repository is maintained as a practical discovery list, not a paid director
 ## Image and Media Tools
 
 - [24Picture](https://24picture.com) - Browser-local image toolkit with converters, compressors, editors, GIF tools, batch conversion, and PWA support. `local-first` `privacy-first` `pwa`
+- [ImgFlow](https://imgflow.taoliapp.com/en/) - Free in-browser image compressor and converter (PNG/JPG/HEIC/WebP/AVIF, target-size compress; EXIF stripped by default). Files never leave your device. `local-first` `privacy-first` `pwa`
 - [Squoosh](https://squoosh.app/) - Image compression and format conversion from the browser, originally by GoogleChromeLabs. `local-first` `open-source`
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Web UI for SVGO, useful for optimizing SVG files before shipping them. `local-first` `open-source`
 - [Photopea](https://www.photopea.com/) - Advanced browser-based image editor with PSD, vector, and raster workflows.
