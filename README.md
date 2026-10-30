@@ -71,6 +71,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Mermaid Live Editor](https://mermaid.live/) - Create and preview Mermaid diagrams directly in the browser. `open-source`
 - [Crontab Guru](https://crontab.guru/) - Human-readable editor and explainer for cron schedules.
 - [JSON Editor Online](https://jsoneditoronline.org/) - View, format, compare, and edit JSON documents in the browser.
+- [BestJSON](https://bestjson.com/json-diff) - Compare JSON structures and inspect added, removed, and changed values locally without signing up. `local-first`
 
 ## Design and Creative Tools
 
