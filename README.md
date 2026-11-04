@@ -143,6 +143,7 @@ Suggested entry format:
 
 ```md
 - [Tool Name](https://example.com/) - One clear sentence explaining what it does. `tag-one` `tag-two`
+- [QuizQuip](https://quizquip.com) - Free syllabus-aligned science revision hub for Singapore lower-secondary students: chapter notes, key terms, quizzes, topical questions and original practice papers by exam stage.
 ```
 
 Keep descriptions factual, short, and non-hype.
