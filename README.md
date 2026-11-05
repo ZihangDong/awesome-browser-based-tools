@@ -41,6 +41,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Developer Utilities](#developer-utilities)
 - [Design and Creative Tools](#design-and-creative-tools)
 - [Writing and Documentation](#writing-and-documentation)
+- [Marketing and Business Tools](#marketing-and-business-tools)
 - [Data, Security, and Diagnostics](#data-security-and-diagnostics)
 - [Tool Directories and Discovery](#tool-directories-and-discovery)
 - [Selection Criteria](#selection-criteria)
@@ -90,6 +91,10 @@ This repository is maintained as a practical discovery list, not a paid director
 - [StackEdit](https://stackedit.io/) - Browser-based Markdown editor with sync options. `open-source`
 - [Carbon](https://carbon.now.sh/) - Create and export beautiful code screenshots.
 - [Shields.io](https://shields.io/) - Generate badges for GitHub READMEs, docs, and project pages. `open-source`
+
+## Marketing and Business Tools
+
+- [Telegram Sponsorship CPM Calculator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/) - Estimate implied CPM from a Telegram channel sponsorship quote and median post views; calculations run in the browser. `local-first` `open-source` `privacy-first`
 
 ## Data, Security, and Diagnostics
 
