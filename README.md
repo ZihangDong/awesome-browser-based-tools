@@ -85,6 +85,7 @@ This repository is maintained as a practical discovery list, not a paid director
 
 ## Writing and Documentation
 
+- [Mdpresso](https://mdpresso.com/) - Split a PDF by page ranges or extract and remove pages in the browser. `local-first`
 - [Hemingway Editor](https://hemingwayapp.com/) - Browser-based writing clarity checker.
 - [Dillinger](https://dillinger.io/) - Online Markdown editor with preview and export options. `open-source`
 - [StackEdit](https://stackedit.io/) - Browser-based Markdown editor with sync options. `open-source`
