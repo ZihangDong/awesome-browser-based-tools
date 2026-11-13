@@ -69,6 +69,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Bundlephobia](https://bundlephobia.com/) - Analyze npm package size impact before installing a dependency.
 - [Can I use](https://caniuse.com/) - Browser support tables for modern web platform features.
 - [Mermaid Live Editor](https://mermaid.live/) - Create and preview Mermaid diagrams directly in the browser. `open-source`
+- [Mermaid Share Lab](https://huggingface.co/spaces/j-river/mermaid-share-codec) - Encode and decode Mermaid share links, recover diagram source, and inspect decoded state in the browser. `local-first` `open-source`
 - [Crontab Guru](https://crontab.guru/) - Human-readable editor and explainer for cron schedules.
 - [JSON Editor Online](https://jsoneditoronline.org/) - View, format, compare, and edit JSON documents in the browser.
 
