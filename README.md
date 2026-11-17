@@ -90,6 +90,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [StackEdit](https://stackedit.io/) - Browser-based Markdown editor with sync options. `open-source`
 - [Carbon](https://carbon.now.sh/) - Create and export beautiful code screenshots.
 - [Shields.io](https://shields.io/) - Generate badges for GitHub READMEs, docs, and project pages. `open-source`
+- [EditMyHTML](https://editmyhtml.com/) - Free browser-based editor for editing and formatting HTML. `local-first` `privacy-first`
 
 ## Data, Security, and Diagnostics
 
