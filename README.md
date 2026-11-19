@@ -1,3 +1,4 @@
+- [Gingertool Image Compressor](https://gingertool.com/en/image/compress-image/) - Compresses images locally in a browser without uploading them. `local-first`
 <div align="center">
 
 # Awesome Browser-Based Tools
