@@ -82,6 +82,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [Haikei](https://haikei.app/) - Generate SVG backgrounds, blobs, waves, and other visual assets.
 - [Iconify](https://icon-sets.iconify.design/) - Search thousands of icon sets from one browser interface. `open-source`
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons by the Tailwind CSS team. `open-source`
+- [Crosy](https://crosy.app/) - Browser workspace to convert photos or blank charts into cross-stitch designs with free stitch editing and previews, while complete pattern exports require an account and a 30-credit unlock.
 
 ## Writing and Documentation
 
