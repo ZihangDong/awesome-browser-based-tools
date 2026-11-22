@@ -58,6 +58,8 @@ This repository is maintained as a practical discovery list, not a paid director
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
+- [PDF Fan – Converter imagem em PDF](https://pdf.fan/pt-br/imagem-para-pdf/) - Combines JPG and PNG images into a PDF with page-order and rotation controls. `local-first`
+
 
 ## Developer Utilities
 
