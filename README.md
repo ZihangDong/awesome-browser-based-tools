@@ -58,6 +58,7 @@ This repository is maintained as a practical discovery list, not a paid director
 - [tldraw](https://www.tldraw.com/) - Whiteboard and drawing app built for the web. `open-source`
 - [Kapwing](https://www.kapwing.com/tools) - Collection of browser-based media editing tools for creators.
 - [EzGIF](https://ezgif.com/) - Long-running web toolkit for GIF editing, conversion, resizing, cropping, and optimization.
+- [Whisper Web Subtitle Editor](https://whisperwebfree.com/subtitle-editor) - Edits individual SRT and VTT cues against local media playback and exports a revised subtitle file. `local-first`
 
 ## Developer Utilities
 
